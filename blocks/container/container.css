@@ -15,3 +15,9 @@
     line-height: 1.6;
   }
 }
+
+@media screen and (min-width:1280px) {
+  .container {
+    padding: 0 148px;
+  }
+}

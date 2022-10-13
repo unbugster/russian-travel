@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+}
+
+@media screen and (min-width:768px) {
+  .main {
+    gap: 88px;
+  }
+}
+
+@media screen and (min-width:1024px) {
+  .main {
+    gap: 92px;
+  }
+}

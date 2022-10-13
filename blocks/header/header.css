@@ -2,5 +2,18 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-top: 16px;
+  padding: 16px 16px 0;
+  margin-bottom: 48px;
+}
+
+@media screen and (min-width:768px) {
+  .header {
+    padding: 28px 24px 0;
+  }
+}
+
+@media screen and (min-width:1024px) {
+  .header {
+    padding: 28px 48px 0;
+  }
 }
