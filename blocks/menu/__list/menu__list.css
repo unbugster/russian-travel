@@ -1,0 +1,16 @@
+.menu__list {
+  margin: 0 0 43px 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+@media screen and (min-width:768px) {
+  .menu__list {
+    flex-direction: row;
+    margin-bottom: 0;
+    gap: 18px;
+  }
+}

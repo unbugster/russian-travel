@@ -3,7 +3,7 @@
   box-sizing: border-box;
   margin: 0 auto;
   -webkit-font-smoothing: antialiased;
-  font-family: "Inter", "Arial ", sans-serif;
+  font-family: "Inter", "Arial", sans-serif;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
@@ -11,7 +11,7 @@
   text-rendering: optimizeLegibility;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.6;
+  line-height: 1.63;
   color: #FFFFFF;
   display: flex;
   flex-direction: column;
@@ -20,6 +20,5 @@
 @media screen and (min-width:1024px) {
   .page {
     font-size: 18px;
-    line-height: 1.6;
   }
 }
