@@ -7,12 +7,6 @@
   margin: 0 0 12px 0;
 }
 
-@media screen and (min-width:768px) {
-  .place__url {
-    letter-spacing: 2px;
-  }
-}
-
 @media screen and (min-width:1024px) {
   .place__url {
     margin: 0;

@@ -55,6 +55,5 @@
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__copyright/footer__copyright.css');
 
-@import url('../blocks/menu/menu.css');
 @import url('../blocks/menu/__list/menu__list.css');
 @import url('../blocks/menu/__link/menu__link.css');
